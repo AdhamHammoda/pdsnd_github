@@ -8,7 +8,7 @@
  Exploring US Bikeshare Data
 
 ### Description:
- In this project I analyzed three us Bikeshare datasets from three different cities. 
+ In this project I analyzed three US Bikeshare datasets from three different cities which are : New York , Chicago , Washington. 
 
 ### Files used:
  I have used thre excel files (csv files) of the three cities which are : new_yor_city.csv , chicago.csv , washington.csv
