@@ -5,7 +5,7 @@
 
 
 ### Title:
- Explore US Bikeshare Data
+ Exploring US Bikeshare Data
 
 ### Description:
  In this project I analyzed three us Bikeshare datasets from three different cities. 
