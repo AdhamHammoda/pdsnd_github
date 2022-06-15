@@ -13,3 +13,10 @@
 ### Files used:
  I have used thre excel files (csv files) of the three cities which are : new_yor_city.csv , chicago.csv , washington.csv
 
+Link to datasets:
+
+https://ride.divvybikes.com/system-data
+
+https://ride.citibikenyc.com/system-data
+
+https://ride.capitalbikeshare.com/system-data
